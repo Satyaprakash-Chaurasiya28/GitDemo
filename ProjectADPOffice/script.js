@@ -4,3 +4,7 @@ functionAnkit() {
     var c = a+b 
     console.log(c)
 }
+function()
+{
+    console.log("This is message for Git Demo")
+}
