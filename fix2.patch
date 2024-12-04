@@ -1,0 +1,10 @@
+diff --git a/ProjectADPOffice/script.js b/ProjectADPOffice/script.js
+index 511c8b3..00358ef 100644
+--- a/ProjectADPOffice/script.js
++++ b/ProjectADPOffice/script.js
+@@ -8,4 +8,5 @@ function()
+ {
+     console.log("This is message for Git Demo")
+     console.log("Okay, so we will be applying fix for the patch")
++    console.log("without using comming will generate a patch")
+ }

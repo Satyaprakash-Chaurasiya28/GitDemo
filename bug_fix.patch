@@ -1,0 +1,19 @@
+diff --git a/ProjectADPOffice/script.js b/ProjectADPOffice/script.js
+index 6534809..511c8b3 100644
+--- a/ProjectADPOffice/script.js
++++ b/ProjectADPOffice/script.js
+@@ -7,4 +7,5 @@ functionAnkit() {
+ function()
+ {
+     console.log("This is message for Git Demo")
++    console.log("Okay, so we will be applying fix for the patch")
+ }
+diff --git a/info.txt b/info.txt
+index 8689254..bd8b149 100644
+--- a/info.txt
++++ b/info.txt
+@@ -1,2 +1,4 @@
+ Hi, 
+ Ankit made this change into the file
++Hi, 
++Dhagash made this change into the file and now we will learn how to apply patch
